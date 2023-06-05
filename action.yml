@@ -54,4 +54,4 @@ runs:
     - ${{ inputs.rsync-option }}
 branding:
   icon: 'git-commit'
-  color: 'green'
+  color: 'yellow'
