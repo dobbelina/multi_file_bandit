@@ -1,4 +1,4 @@
-# copy_file_to_another_repo_action
+# dobbelina/multi_file_bandit@main
 This GitHub Action copies files or folders from the current repository to a location in another repository
  ```diff
    Inspiration from @dmnemec
