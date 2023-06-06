@@ -22,7 +22,7 @@ CLONE_DIR=$(mktemp -d)
 echo "[+] Enable git lfs"
 git lfs install
 
-echo "Cloning destination git repositor"
+echo "Cloning destination git repository"
 
 #git config --global http.version HTTP/1.1
 #git config --global http.postBuffer 157286400
